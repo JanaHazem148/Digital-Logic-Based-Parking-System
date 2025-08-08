@@ -1,4 +1,6 @@
 🚗 Smart Parking System – Digital Logic Design
+
+
 📌 Overview
 The Smart Parking System is a digital logic-based solution designed to efficiently manage parking spaces by counting vehicles entering and exiting the parking area. The system automates the process using digital ICs, seven-segment displays, and sensors, providing real-time occupancy information.
 
