@@ -77,17 +77,5 @@ Hardware Components: Breadboard, jumper wires, ICs, resistors, LEDs, infrared se
 
 Final Touch: Added two IR sensors for automated detection – one for entry and one for exit – connected to the counter circuit for real-time updates.
 
-📷 Project Media
-Circuit Diagram
 
-Prototype
-
-👨‍💻 Team Members
-Jana Hazem – GitHub Profile
-
-Yousef Mohamed
-
-Osama Mohamed
-
-Youssef Mohamed
 
